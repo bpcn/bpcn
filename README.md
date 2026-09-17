@@ -19,14 +19,14 @@ I work with and am currently learning technologies such as:
 - Docker
 - Cybersecurity tools
 
-## 🚀 Some of my projects
+##  Some of my projects
 
 - **Authium** — A roblox da hood script, closet & rage.
 - **Devlink** — Devlink is a network where roblox Developers meet and come along.
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37688)](https://codetime.dev)
 
-## 📫 Contact Me
+##  Contact Me
 
-- GitHub: @bpcn
+- Discord: @diagnosable
 - Email: Ben@devlink.cc
